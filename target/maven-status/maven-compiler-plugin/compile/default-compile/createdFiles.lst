@@ -1,0 +1,7 @@
+bg/softuni/smartbudgetadvisor/repositories/AdviceLogRepository.class
+bg/softuni/smartbudgetadvisor/web/controllers/AdviceController.class
+bg/softuni/smartbudgetadvisor/models/dto/AdviceRequest.class
+bg/softuni/smartbudgetadvisor/models/AdviceLogEntity.class
+bg/softuni/smartbudgetadvisor/services/impl/AdviceServiceImpl.class
+bg/softuni/smartbudgetadvisor/SmartbudgetAdvisorApplication.class
+bg/softuni/smartbudgetadvisor/services/AdviceService.class

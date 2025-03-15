@@ -1,0 +1,7 @@
+/Users/martinkanev/Documents/JAVA/Spring_January2025/SmartBudgetAdvisorApp/src/main/java/bg/softuni/smartbudgetadvisor/SmartbudgetAdvisorApplication.java
+/Users/martinkanev/Documents/JAVA/Spring_January2025/SmartBudgetAdvisorApp/src/main/java/bg/softuni/smartbudgetadvisor/models/AdviceLogEntity.java
+/Users/martinkanev/Documents/JAVA/Spring_January2025/SmartBudgetAdvisorApp/src/main/java/bg/softuni/smartbudgetadvisor/models/dto/AdviceRequest.java
+/Users/martinkanev/Documents/JAVA/Spring_January2025/SmartBudgetAdvisorApp/src/main/java/bg/softuni/smartbudgetadvisor/repositories/AdviceLogRepository.java
+/Users/martinkanev/Documents/JAVA/Spring_January2025/SmartBudgetAdvisorApp/src/main/java/bg/softuni/smartbudgetadvisor/services/AdviceService.java
+/Users/martinkanev/Documents/JAVA/Spring_January2025/SmartBudgetAdvisorApp/src/main/java/bg/softuni/smartbudgetadvisor/services/impl/AdviceServiceImpl.java
+/Users/martinkanev/Documents/JAVA/Spring_January2025/SmartBudgetAdvisorApp/src/main/java/bg/softuni/smartbudgetadvisor/web/controllers/AdviceController.java
