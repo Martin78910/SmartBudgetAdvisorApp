@@ -21,7 +21,7 @@ public class AdviceController {
     // 1) GET endpoint -> връща "общ" съвет
     @GetMapping
     public ResponseEntity<String> getGenericAdvice() {
-        //  "Опитайте да редуцирате фиксираните разходи с 10%!"
+        //  "Опитайте да редуцирате своите разходи!"
         String advice = adviceService.generateAdvice();
         return ResponseEntity.ok(advice);
     }

@@ -21,7 +21,7 @@ public class AdviceServiceImpl implements AdviceService {
     @Override
     public String generateAdvice() {
         // Примерен "общ" съвет
-        String text = "Опитайте да редуцирате фиксираните разходи с 10%!";
+        String text = "Опитайте да редуцирате своите разходи!";
 
         // По желание може да запишем в базата, напр. userEmail = "anonymous"
         AdviceLogEntity logEntity = new AdviceLogEntity();
